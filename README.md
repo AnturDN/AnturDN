@@ -1,5 +1,17 @@
 # 💫 About Me:
-# Hi, I'm Antur Deb Nath 👋<br><br>💻 Software Developer | 🎓 CSE Student<br><br>I'm a software developer passionate about designing, developing, and building practical, intelligent, and user-focused software solutions. I enjoy exploring different areas of technology, from frontend and backend development to database management and AI-powered applications.<br><br>- 💡 Interested in Full-Stack Development, Software Engineering, and Artificial Intelligence.<br>- ⚛️ Working with JavaScript, React.js, PHP, Laravel, and MySQL.<br>- 🛠️ Experienced in developing web applications, building REST APIs, and integrating frontend and backend systems.<br>- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning.<br>- 🗄️ Interested in database design, application architecture, and writing clean, maintainable code.<br>- 🌱 Continuously learning emerging technologies and improving my problem-solving skills.<br>- 🚀 Passionate about building innovative solutions and turning ideas into functional software.<br>- 🤝 Open to collaboration, open-source contributions, and exciting development opportunities.<br><br>📍 Bangladesh
+### Hi, I'm Antur Deb Nath 👋
+💻 Software Developer | 🎓 CSE Student
+
+Passionate about building practical software solutions and exploring modern technologies.
+
+- 💡 Interested in Full-Stack Development & AI.
+- ⚛️ Working with JavaScript, React, PHP, Laravel & MySQL.
+- 🤖 Exploring Machine Learning and Deep Learning.
+- 🛠️ Enjoy building applications, REST APIs, and solving problems.
+- 🌱 Always learning and improving my development skills.
+- 🤝 Open to collaboration and new opportunities.
+
+📍 Bangladesh
 
 
 ## 🌐 Socials:
